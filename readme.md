@@ -11,7 +11,7 @@ Esta es una aplicacion, que posee, usuarios, usuarios asignados, y tareas que so
 En la misma pagina, manejo de sesiones y carteles de notificacion cuando el registro se efectua correctamente.
 Tambien se le envia confirmacion al usuario correctamente registrado.
 
-![](./imgs/login.png)
+![](./imgs/login.PNG)
 
 
 ----
@@ -28,7 +28,7 @@ Las tareas, se le pueden asignar usuarios que no estan en la aplicacion, se pret
 
 Corresponden a las tareas del Usuario que esta logueado.
 
-![](./imgs/tareasAsignadas.png)
+![](./imgs/tareasAsignadas.PNG)
 
 ---
 
@@ -36,7 +36,7 @@ Corresponden a las tareas del Usuario que esta logueado.
 
 Formulario con invitacion a usuario.
 
-![](./imgs/invitar.png)
+![](./imgs/invitar.PNG)
 
 ---
 
@@ -44,7 +44,7 @@ Formulario con invitacion a usuario.
 
 Pagina para cambiar contraseña que pide de nuevo la contraseña
 
-![](./imgs/cambiarcontrasenia.png)
+![](./imgs/cambiarcontrasenia.PNG)
 
 ----
 
@@ -54,4 +54,4 @@ Pagina para cambiar contraseña que pide de nuevo la contraseña
 Instalar los paquetes necesarios con **composer**.
 Cambiar el mail y el password de la clase **SendMail** por uno **válido**
 
-![](./imgs/configuracion.png)
+![](./imgs/configuracion.PNG)
